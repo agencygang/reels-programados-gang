@@ -1,0 +1,26 @@
+{
+  "horarios": [
+    [
+      "12:00",
+      "13:00"
+    ],
+    [
+      "15:30",
+      "16:30"
+    ],
+    [
+      "18:00",
+      "19:00"
+    ],
+    [
+      "19:30",
+      "20:30"
+    ]
+  ],
+  "utc_offset_min": -300,
+  "reel_de_prueba": true,
+  "paso_a_seguidores": "MANUAL",
+  "atraso_maximo": 120,
+  "espera_maxima": 10,
+  "buzon": "agencygang/reels-buzon-gang"
+}
